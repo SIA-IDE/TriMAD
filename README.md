@@ -1,4 +1,5 @@
-# TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank
+# Unleashing Foundation Models via Tri-Memory Bank for Structural and Logical Anomaly Detection
+
 ## Overview
 
 <table>
